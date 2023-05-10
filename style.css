@@ -1,0 +1,57 @@
+    .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  h1 {
+    text-align: center;
+    font-family: 'Seven Segment', sans-serif;
+    background-color: black;
+    font-size: 40px;
+    margin: 5px;
+    padding: 2px;
+    color: green;
+  }
+
+  p {
+    font-family: 'Seven Segment', sans-serif;
+    text-align: center;
+    background-color: black;
+    margin: 5px;
+    padding: 2px;
+    color: green;
+    font-size: 20px;
+    border-radius: 5%;
+  }
+
+  body {
+    background-image: url("https://gifdb.com/images/high/finance-money-rain-loop-oo6m4kfpup2uk2j4.webp");
+    background-size: cover;
+  }
+
+  .answers {
+    width: 47%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .answers1 {
+    width: 25%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  h2 {
+    text-align: center;
+    color: chartreuse;
+    font-size: 30px;
+    font-family: Arial;
+    margin: 2px;
+  }
+
+  .disable-dbl-tap-zoom {
+    touch-action: manipulation;
+  }
